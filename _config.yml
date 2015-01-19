@@ -9,9 +9,9 @@ relative_permalinks: false
 excerpt_separator: "<!-- more -->"
 
 # the product_slug of the project you want to feature on home page
-featured_project: Videre
+featured_project: Caldi
 # the projects listed in list of projects in sidebar_projects
-listed_projects: [Videre]
+listed_projects: [Caldi, Videre]
 
 # site specific strings -
 #

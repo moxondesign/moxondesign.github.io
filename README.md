@@ -3,7 +3,7 @@ moxondesign.github.io
 
 Moxon Design Organization Website
 
-This is the source of the moxondesign website [http://moxon.com/](http://moxon.com).  
+This is the source of the [moxondesign website] (http://moxondesign.github.io)  
 The only interesting branch in this repo will be the *source* branch;
 as GitHub expects the generated website to live in the *master* branch.
 

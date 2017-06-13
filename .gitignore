@@ -1,6 +1,6 @@
 .sass-cache
 .project
-site
+site/*
 source/css
 *.bak
 *_bak

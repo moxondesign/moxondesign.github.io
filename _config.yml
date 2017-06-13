@@ -9,9 +9,9 @@ relative_permalinks: false
 excerpt_separator: "<!-- more -->"
 
 # the product_slug of the project you want to feature on home page
-featured_project: Caldi
+featured_project: TSOC_ESP32S
 # the projects listed in list of projects in sidebar_projects
-listed_projects: [Caldi, Videre]
+listed_projects: [TSOC_ESP32S, Caldi, Videre]
 
 # site specific strings -
 #
@@ -33,7 +33,7 @@ meta:
 # (then we can easily rewrite them later if needed)
 # e.g. use {{site.url.support.home}} instead of /support/index.html
 #
-url:
+url: 
   home: /
   images: /img
   videos: http://www.moxon.com/vid
